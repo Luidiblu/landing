@@ -1,0 +1,24 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://i.redd.it/h5vi7fm5cby11.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner h1{
+  color: white;
+  font-size: 64PX;
+  text-shadow: 1px 1px 1px black
+}
+
+
+.banner p{
+  color: white;
+  opacity: 1;
+  font-size: 48px;
+  text-shadow: 1px 1px 1px black
+}
+

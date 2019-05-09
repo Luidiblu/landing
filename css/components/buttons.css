@@ -1,0 +1,11 @@
+.bnt-primary {
+  display: inline-block;
+  background-color: #357818;
+  padding: 16px 36px;
+  color: white;
+  border-radius: 30px;
+}
+
+.bnt-primary:hover {
+  opacity: .5;
+}
